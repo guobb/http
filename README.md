@@ -16,3 +16,5 @@
 - -A 显示所有进程
 - -f 显示UID，PPID，C 与 TIME 栏位
   grep命令是查找 
+  
+### [响应头类型查找 ](http://tool.oschina.net/commons)
